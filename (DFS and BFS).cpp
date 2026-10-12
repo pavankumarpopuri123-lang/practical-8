@@ -89,6 +89,6 @@ int main() {
     return 0;
 }
 
-output:
+//output:
        BFS Traversal: 0 1 2 3 4 
        DFS Traversal: 0 1 3 4 2 
